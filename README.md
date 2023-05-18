@@ -1,6 +1,7 @@
 # MySQL_Essential
 
 Home Task 1 
+
 Задание 2 
 Создать базу данных с именем “MyDB”. 
 
