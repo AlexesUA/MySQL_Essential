@@ -8,7 +8,7 @@
 
 DROP DATABASE IF EXISTS wholesale_warehouse;
 
-CREATE SCHEMA IF NOT EXISTS wholesale_warehouse;
+CREATE DATABASE IF NOT EXISTS wholesale_warehouse;
 USE wholesale_warehouse;
 
 CREATE TABLE IF NOT EXISTS distributor (
